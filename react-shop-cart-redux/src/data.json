@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "_id": "item1",
+      "image": "/images/image1.jpg",
+      "title": "B&O Beoplay E8",
+      "description": "B&O Beoplay E8 Sport har en 5,7 mm dynamisk højttaler, Bluetooth-chip med DSP (Digital Signal Processor) og en lille elektromagnetisk transducer for en naturlig og velafbalanceret lyd – både når du lytter til musik eller taler i telefon.",
+      "availableSizes": ["XL", "XXL"],
+      "price": 2199
+    },
+    {
+      "_id": "item2",
+      "image": "/images/image2.jpg",
+      "title": "Samsung 75 QN900A 8K Neo QLED (2021)",
+      "description": "Oplev fantastisk 8K opløsning med superfokuseret lys og fremragende intensitet med dette Samsung 75 QN900A 8K UHD Neo QLED Smart QE75Q900TAX TV med Quantum HDR, episk 3D lyd og Infinity Screen.",
+      "availableSizes": ["X", "L", "XL", "XXL"],
+      "price": 52999
+    },
+    {
+      "_id": "item3",
+      "image": "/images/image3.jpg",
+      "title": "B&O Beoplay H95 wireless trådløse",
+      "description": "Disse stilrene B&O Beoplay H95 wireless trådløse rundt-om-ørene høretelefoner giver kvalitetslyd med den sædvanlige B&O Signature Sound. Skil dig ud fra mængden med høretelefonernes luksuriøse design og nyd 38 timer af trådløs spilletid.",
+      "availableSizes": ["X", "XL", "XXL"],
+      "price": 6000
+    },
+    {
+      "_id": "item4",
+      "image": "/images/image4.jpg",
+      "title": "MacBook Pro 13 MWP42 2020",
+      "description": "MacBook Pro 13 har et komplet gentænkt tastaturdesign",
+      "availableSizes": ["X"],
+      "price": 15999
+    },
+    {
+      "_id": "item5",
+      "image": "/images/image5.jpg",
+      "title": "MacBook Pro 13 MWP42 2020",
+      "description": "MacBook Pro 13 har et komplet gentænkt tastaturdesign",
+      "availableSizes": ["XXL"],
+      "price": 15999
+    },
+    {
+      "_id": "item6",
+      "image": "/images/image6.jpg",
+      "title": "B&O Beoplay H95 wireless trådløse",
+      "description": "Disse stilrene B&O Beoplay H95 wireless trådløse rundt-om-ørene høretelefoner giver kvalitetslyd med den sædvanlige B&O Signature Sound. Skil dig ud fra mængden med høretelefonernes luksuriøse design og nyd 38 timer af trådløs spilletid.",
+      "availableSizes": ["L", "XL", "XXL"],
+      "price": 6000
+    }
+  ]
+}
